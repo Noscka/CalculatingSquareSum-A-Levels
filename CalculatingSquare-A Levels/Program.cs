@@ -9,6 +9,7 @@ namespace CalculatingSquare_A_Levels
 			int output = 0;
 			for(int i = 0; i < Range; i++)
 			{
+				Console.Write($"{i + startPos}\t");
 				output += i+startPos;
 			}
 			return output;
@@ -19,7 +20,10 @@ namespace CalculatingSquare_A_Levels
 			int output = 0;
 			for (int i = 1; i < RowCount+1; i++)
 			{
-				output += SumRange(i, ColumnCount);
+				int sum = SumRange(i, ColumnCount);
+				output += sum;
+				Console.Write($"  Row Sum: {sum}");
+				Console.Write("\n");
 			}
 			return output;
 		}
