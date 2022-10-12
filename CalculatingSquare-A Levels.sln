@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatingSquare-A Levels", "CalculatingSquare-A Levels\CalculatingSquare-A Levels.csproj", "{FE0DFE99-0F8D-4241-B809-45FDA0BE5442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0DFE99-0F8D-4241-B809-45FDA0BE5442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0DFE99-0F8D-4241-B809-45FDA0BE5442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0DFE99-0F8D-4241-B809-45FDA0BE5442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0DFE99-0F8D-4241-B809-45FDA0BE5442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DE09C6A-702A-473C-B3D7-F6BC655BAAF1}
+	EndGlobalSection
+EndGlobal
